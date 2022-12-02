@@ -1,0 +1,19 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  overflow-x:hidden;
+  overflow-y: hidden;
+
+}
+
+.react-calendar {
+  width: 75% !important;
+  margin-left: 15%;
+}
+
+.card-text {
+  resize: none;
+  border: none;
+  outline: none;
+}
